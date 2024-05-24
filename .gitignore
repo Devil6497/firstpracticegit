@@ -3,8 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+#.......  this is my ignore details whose does not send to github
 myenv/
 fun.py
+
+# .......... 
 
 # C extensions
 *.so
